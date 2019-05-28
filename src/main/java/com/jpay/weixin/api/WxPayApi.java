@@ -87,7 +87,10 @@ public class WxPayApi {
 
 	/**
 	 * 获取验签秘钥API
-	 * 
+	 *
+	 *
+	 *
+	 *
 	 * @param mch_id
 	 *            商户号
 	 * @param partnerKey
